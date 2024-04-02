@@ -1,1 +1,4 @@
 hola
+git config --global user.name WilmerRojas
+
+git config --global user.email wilmer7522@gmail.com
